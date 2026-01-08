@@ -1,4 +1,3 @@
-
 # File Manager on tkinter
 
 ![Made by therat4755](splash.png)
@@ -36,5 +35,7 @@ A simple file management system that allows users to perform basic file operatio
 - Storage: 500MB free space
 
 ## Installation
-1. Download the package
-2. Run .exe
+1. Download the package [from releases](https://github.com/therat4755/pyfilimanager/releases/)
+2. Run FileManager.exe
+
+It shouldnt need any depencies (i think). open issue if im wrong
